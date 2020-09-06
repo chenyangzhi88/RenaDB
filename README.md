@@ -1,1 +1,1 @@
-# RenaDB is a high performance kv database
+# RenaDB is kv database
